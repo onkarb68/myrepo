@@ -1,0 +1,10 @@
+!SESSION 2018-03-20 15:34:37.448 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jdt.core 4 964 2018-03-20 15:38:47.292
+!MESSAGE Cannot nest 'firstTest/src/test/java' inside 'firstTest/src'. To enable the nesting exclude 'test/' from 'firstTest/src'
